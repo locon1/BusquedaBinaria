@@ -1,0 +1,9 @@
+c:\users\asus\documents\visual studio 2015\Projects\Busqueda-binaria\Busqueda-binaria\bin\Debug\Busqueda-binaria.exe.config
+c:\users\asus\documents\visual studio 2015\Projects\Busqueda-binaria\Busqueda-binaria\bin\Debug\Busqueda-binaria.exe
+c:\users\asus\documents\visual studio 2015\Projects\Busqueda-binaria\Busqueda-binaria\bin\Debug\Busqueda-binaria.pdb
+c:\users\asus\documents\visual studio 2015\Projects\Busqueda-binaria\Busqueda-binaria\obj\Debug\Busqueda-binaria.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2015\Projects\Busqueda-binaria\Busqueda-binaria\obj\Debug\Busqueda_binaria.Form1.resources
+c:\users\asus\documents\visual studio 2015\Projects\Busqueda-binaria\Busqueda-binaria\obj\Debug\Busqueda_binaria.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2015\Projects\Busqueda-binaria\Busqueda-binaria\obj\Debug\Busqueda-binaria.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2015\Projects\Busqueda-binaria\Busqueda-binaria\obj\Debug\Busqueda-binaria.exe
+c:\users\asus\documents\visual studio 2015\Projects\Busqueda-binaria\Busqueda-binaria\obj\Debug\Busqueda-binaria.pdb
